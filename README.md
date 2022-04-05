@@ -15,7 +15,9 @@ CART)
 # Assignments:
 
 Please click on the hyperlink to find the code and reports created for the assignments.
-**1. Airbnb in Amsterdam Price Prediction**: [Assignment 2](https://github.com/nawalhasan/Prediction-and-Introduction-to-Machine-Learning/tree/main/Assignment2), 
+
+**1. Airbnb in Amsterdam Price Prediction**: [Assignment 2](https://github.com/nawalhasan/Prediction-and-Introduction-to-Machine-Learning/tree/main/Assignment2)
+
 **2. Fast Growth Firms Prediction Model**: [Assignment 3](https://github.com/nawalhasan/Prediction-and-Introduction-to-Machine-Learning/tree/main/Assignment3)
 
 
